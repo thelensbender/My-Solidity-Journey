@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Practice/assignment2.sol": "personal"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Practice/assignment2.sol": {
+			"keccak256": "0xecdd34a028cb8fdafc70b615ed1c8566b7f6774e6b74caa7b4526cf4e877a578",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://770014196b4cef790c8921198af4af986cc84a5af12488ec79e2c99f75c64f93",
+				"dweb:/ipfs/QmSE13nSCVbzNRXL8ZxZ9S4aRNuirV8wYKboDX48NV9DcD"
+			]
+		}
+	},
+	"version": 1
+}

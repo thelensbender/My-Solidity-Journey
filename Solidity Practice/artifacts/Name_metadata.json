@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Solidity Practice/assignment1.sol": "Person"
+			"Solidity Practice/assignment2.sol": "Name"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Solidity Practice/assignment1.sol": {
-			"keccak256": "0x1d23486777c6f858741a69e8f6cd4d6d95a47695621546fc0af3e8f6e6da69a1",
+		"Solidity Practice/assignment2.sol": {
+			"keccak256": "0x5f0095f2ec086f5fd50320205a3424987ea4bf9e948a2e433d8e29c4fbc434c2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://931331db4906be1ea51fea419114c4dd05cbad897deb672b37efaf0056e80699",
-				"dweb:/ipfs/QmQqxZX9Be1LbvDnehZhUyNbkz9s4kovgco5xb7S1oWg17"
+				"bzz-raw://1858b2264c75897ae64eb46ffb265f428e7143b60ea8e4c0115fe288fac73427",
+				"dweb:/ipfs/QmSusftVuga5ddxUzZsCJqUFV1hQFfB6186NF8MRCgvKYF"
 			]
 		}
 	},
